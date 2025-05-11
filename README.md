@@ -1,2 +1,2 @@
-# 🐣Gonn's Devlog
-블로그 바로 가기 https://park-goun.github.io/
+# 🐰Gonn's Devlog
+[https://park-goun.github.io/](https://qkrgonn.github.io/park-goun.github.io/)
